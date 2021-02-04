@@ -1,0 +1,186 @@
+p{ font-size: 1.3em;
+   font-weight:normal;
+   text-align:justify;
+   color:#17202A;
+   font-family:'Playfair Display', serif;
+   text-align:center;}
+
+h2 { 
+font-size:2em;
+font-style: Normal;
+text-align: center;
+color:#FDFEFE ;
+font-family:'Playfair Display', serif;
+}
+
+.insta{ 
+       color:#E61044;
+	   position:fixed;
+	   right:0px;
+	   bottom:0px;}
+
+.email{
+		color:#E61044;
+		position:fixed;
+		right:300px;
+		bottom:0px;		
+}
+.page2{ 
+		position:fixed;
+		right:600px;
+		bottom:0px;
+        color:#E61044;}
+
+h1
+{ 
+font-size:3em;
+font-style: Normal;
+text-align: center;
+color:#17202A;
+font-family:'Playfair Display', serif;
+
+}
+ h3
+ {
+	 text-align:center;
+	 font-size:2em;
+	 color:#FDFEFE;
+	font-family:'Playfair Display', serif;
+ }
+
+body
+{
+	background-color:#1C2833 ;
+	color:#FDFEFE ;
+	font-family:'Playfair Display', serif;
+	
+	
+}   
+
+.div1{
+	
+	background-color:#1C2833 ;
+	padding-bottom:100px;
+	color:#FDFEFE ;
+	
+}
+.div2{
+	background-color:#1C2833 ;
+}
+
+.div3{
+	background-color:#F7F9F9 ;
+	padding:50px 0 20px;
+	padding-bottom:300px;
+	
+}
+.div4{
+	background-color:#AED6F1 ;
+	padding-top:25px;
+	padding-bottom:200px;
+	
+	
+}
+
+
+.photo{
+	width:300px; 
+	
+	
+}
+/* .insta{ 
+	width:50px;
+	position:absolute;
+	left:850px;
+	top:1710px;  */
+
+}
+.insta:hover{
+	filter:invert(100%);
+}
+.fb{
+	width:50px;
+	position:absolute;
+	left:800px;
+	bottom:20px:
+}
+.fb:hover{
+	filter:invert(100%);
+}
+.gmail{
+	width:50px;
+	position:absolute;
+	left:650px;
+	bottom:20px:
+}
+.gmail:hover{
+		filter:invert(100%);
+}
+.github{
+	width:50px;
+	position:absolute;
+	left:500px;
+	bottom:20px:
+
+}
+.github:hover{
+	filter:invert(100%);
+}
+.liste{
+	font-size:1.1em;
+	font-style: Normal;
+	text-align: center;
+	color:#273746 ;
+	font-family:'Playfair Display', serif;
+	
+}
+.contacteme{
+	font-family:'Playfair Display', serif;
+	color:#F8F9F9 ;
+}
+.photodiv3{
+	padding-left:30px;
+	width:400px;
+	
+} 
+
+.sect{
+	background-color:#F7F9F9;
+}
+
+.div5{
+	background-color:#F7F9F9 ;
+	padding-bottom:00px;
+}
+.cs{
+	font-size:1.8em;
+	color: black;
+}
+.introduction
+{
+	font-size:1em;
+	font-family:'Playfair Display', serif;
+
+}
+.titre{
+	color:#FDFEFE ;
+	
+}
+
+.blanc{
+	color:#FDFEFE;
+	
+}
+.A{
+	position:absolute;
+	width:300px;
+	top:10px;
+	left:10px;}
+}
+.work{
+	padding-bottom:300px;
+	
+}
+a:visited{
+	color:#34495E;
+}
